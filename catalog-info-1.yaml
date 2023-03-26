@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  namespace: default
+  name: first-custom-system
+spec:
+  owner: guests
